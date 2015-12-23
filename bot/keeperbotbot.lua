@@ -220,7 +220,7 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {118333567,121259485,70742427,0,tonumber(our_id)},--Sudo users
+    sudo_users = {118333567,121122782,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
@@ -232,6 +232,7 @@ https://github.com/manbehtaram/keeperbot
 Admins
 @best_boy
 @amin021r
+@Mr_SilVEr1[RePoRt]
 
 Special thanks to
 ali jon
