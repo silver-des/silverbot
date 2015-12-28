@@ -224,21 +224,21 @@ function create_config( )
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v1
+    about_text = [[Anti-Spam v1
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/manbehtaram/keeperbot
+
 
 Admins
-@best_boy
-@amin021r
+@MR_SILVER1[RePoRt]
+@Nicehacker
+@MrLionHassanZ
+@King_ali
 
 Special thanks to
-ali jon
-amin
+MR_SilVer1 & Nice Hacker
 
-Our channels
-@keeperbotnews1 [English]
+
 ]],
     help_text = [[
 Commands list :
@@ -350,12 +350,14 @@ Set <text> as about
 فقط سازنده میتواند به جای خودش سازنده بگزارد یا کسی را ادمین گروه کند یا صلب ادمینی بکند یا عملیات گروه را بگیرد
 
 ای دی سازنده : 
-@best_boy
+@MR_SilVEr1
 
 
 ادمین های ربات: 
-@best_boy [ سازنده ] 
-@amin021r
+@Mr_Silver1 [ سازنده ] 
+@Nicehacker
+@King_ali
+@MrLionHassanZ
 ]]
 
   }
