@@ -220,23 +220,20 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {121122782,68143146,102952420,158987991,0,tonumber(our_id)},--Sudo users
+    sudo_users = {168398326,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
-    realm = {},--Realms Id
+    realm = {168398326},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Anti-Spam v1
+    about_text = [[PunisherBot v1
 An advance Administration bot based on yagop/telegram-bot 
 
 
 
 Admins
-@MR_SILVER1[RePoRt]
-@Nicehacker
-@MrLionHassanZ
-@King_ali
+@punisher_erfan
 
 Special thanks to
-MR_SilVer1 & Nice Hacker
+@MR_SilVer1 
 
 
 ]],
@@ -354,10 +351,7 @@ Set <text> as about
 
 
 ادمین های ربات: 
-@Mr_Silver1 [ سازنده ] 
-@Nicehacker
-@King_ali
-@MrLionHassanZ
+@punisher_erfan
 ]]
 
   }
